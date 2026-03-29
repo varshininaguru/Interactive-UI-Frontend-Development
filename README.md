@@ -74,10 +74,10 @@ Email: user@gmail.com
 Password: 123456  
 
 ### 🔹 Register
-Name: Jyothi  
-Email: jyothi@gmail.com  
-Password: abc123  
-Confirm Password: abc123  
+Name: varshini  
+Email: varshini@gmail.com  
+Password: abcd123  
+Confirm Password: abcd123  
 
 ---
 
@@ -96,4 +96,4 @@ Confirm Password: abc123
 ---
 
 ## 👨‍💻 Author
-Your Name
+N Varshini
